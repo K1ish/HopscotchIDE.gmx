@@ -10,7 +10,7 @@
     <sprite>sprites\sprBtnLogin</sprite>
     <sprite>sprites\sprBtnSignUp</sprite>
     <sprite>sprites\sprMenuFile</sprite>
-    <sprite>sprites\sprite4</sprite>
+    <sprite>sprites\sprCodeBlock</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
