@@ -9,7 +9,8 @@
     <sprite>sprites\sprHopLogo</sprite>
     <sprite>sprites\sprBtnLogin</sprite>
     <sprite>sprites\sprBtnSignUp</sprite>
-    <sprite>sprites\sprite3</sprite>
+    <sprite>sprites\sprMenuFile</sprite>
+    <sprite>sprites\sprite4</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
