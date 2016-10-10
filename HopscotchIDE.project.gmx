@@ -24,11 +24,13 @@
     <object>objects\obj_logIn</object>
     <object>objects\obj_btnSignup</object>
     <object>objects\obj_open_file</object>
+    <object>objects\obj_textbox</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_menuAniNotDone</room>
     <room>rooms\editor</room>
     <room>rooms\rm_menuAniDone</room>
+    <room>rooms\rm_openfile</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
