@@ -14,11 +14,16 @@
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
+  <scripts name="scripts">
+    <script>scripts\textbox_create.gml</script>
+    <script>scripts\textbox_draw.gml</script>
+  </scripts>
   <objects name="objects">
     <object>objects\obj_control</object>
     <object>objects\obj_hopLogo</object>
     <object>objects\obj_logIn</object>
     <object>objects\obj_btnSignup</object>
+    <object>objects\object4</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_menuAniNotDone</room>

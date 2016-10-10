@@ -45,7 +45,8 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>// Hopscotch logo movement.
+            <string>// Script By Rawrbear
+// Hopscotch logo movement.
 if (room = rm_menuAniNotDone)
     {
     // Sets the start position.
