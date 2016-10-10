@@ -27,7 +27,7 @@
             <kind>1</kind>
             <string>// (C) 2016 K1ish
 // Set The Caption
-global.capt = "Hopscotch For Windows By K1ish"
+global.capt = "Hopscotch"
 window_set_caption(global.capt);
 </string>
           </argument>
