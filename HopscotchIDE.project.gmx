@@ -6,23 +6,24 @@
   <NewExtensions/>
   <sounds name="sound"/>
   <sprites name="sprites">
-    <sprite>sprites\sprHopLogo</sprite>
-    <sprite>sprites\sprBtnLogin</sprite>
-    <sprite>sprites\sprBtnSignUp</sprite>
-    <sprite>sprites\sprMenuFile</sprite>
-    <sprite>sprites\sprCodeBlock</sprite>
+    <sprite>sprites\spr_hopLogo</sprite>
+    <sprite>sprites\spr_btnLogin</sprite>
+    <sprite>sprites\spr_btnSignUp</sprite>
+    <sprite>sprites\spr_menuFile</sprite>
+    <sprite>sprites\spr_codeBlock</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
   <objects name="objects">
-    <object>objects\objControl</object>
-    <object>objects\objHopLogo</object>
-    <object>objects\objLogIn</object>
-    <object>objects\objBtnSignup</object>
+    <object>objects\obj_control</object>
+    <object>objects\obj_hopLogo</object>
+    <object>objects\obj_logIn</object>
+    <object>objects\obj_btnSignup</object>
   </objects>
   <rooms name="rooms">
-    <room>rooms\room0</room>
+    <room>rooms\rm_menuAniNotDone</room>
     <room>rooms\editor</room>
+    <room>rooms\rm_menuAniDone</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
