@@ -25,10 +25,11 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>// Code for textboxes by K1ish
+            <string>// Code for textboxes - Contributed by K1ish github.com/K1ish
 text_fileopen=textbox_create() //Creates the textbox instance
 text_fileopen.single_line=true //Making sure it stays on one line
 text_fileopen.max_chars=500
+text_fileopen.text=environment_get_variable("APPDATA") //Setting the field value
 
 </string>
           </argument>
@@ -52,7 +53,7 @@ text_fileopen.max_chars=500
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>textbox_draw(text_fileopen,320,320,640,488)
+            <string>textbox_draw(text_fileopen,220,320,740,488)
 </string>
           </argument>
         </arguments>
